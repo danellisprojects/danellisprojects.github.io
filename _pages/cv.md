@@ -95,7 +95,7 @@ Grade C: English Language, English Literature, Religious Education, Geography.
 Interests and Activities
 ======
 
-I enjoy reading as well as going out and socialising with friends and family, I have a keen passion for travelling and visiting new locations. I am an outgoing person who enjoys football, badminton, and motorsports. I am economically, politically and socially aware which allows me to develop my own understanding and interpersonal skills.
+I enjoy reading as well as going out and socialising with friends and family, I have a keen passion for travelling and visiting new locations. I am an outgoing person who enjoys football, cricket, badminton, and motorsports. I am economically, politically and socially aware which allows me to develop my own understanding and interpersonal skills.
 
 References
 ======
