@@ -1,6 +1,6 @@
 ---
 title: "Working with Large Data Set"
-excerpt: "International Cycle Shop 2011-2015<br/><img src='/images/500x300.png'>"
+excerpt: "International Cycle Shop 2011-2016<br/><img src='/images/internationalcycleshop.png'>"
 collection: portfolio
 ---
 
