@@ -509,7 +509,9 @@
   text-align: center;
   width: 1.5em;
 }
-
+.fa-link{
+  width: 1.5em;
+}
 .ai-ul {
   list-style-type: none;
   margin-left: 2.5em;
