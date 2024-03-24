@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Aspiring Data Consultant
+### Aspiring Data Consultant
 
 With 18 years in the tech industry, including 12 in IT support and 6 as a programmer, I am now seeking opportunities as a data analyst to leverage my extensive experience. My journey began two decades ago when I built my first PC, sparking a lifelong passion for technology.
 
