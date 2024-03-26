@@ -1,7 +1,7 @@
 ---
 title: 'ProjectNextGen.co.uk'
-date: 2013-08-14
-permalink: /posts/2013/08/project-next-gen-update/
+date: 2024-03-14
+permalink: /posts/2024/03/project-next-gen-update/
 tags:
   - website
   - data analyst
