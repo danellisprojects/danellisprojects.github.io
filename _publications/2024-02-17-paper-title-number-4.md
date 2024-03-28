@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-03-28-simplifying-business-optimization
 excerpt: 'In the ever-evolving landscape of business, optimization stands as the beacon that guides companies to efficiency and success.'
 date: 2024-03-28
-venue: 'Project Next Gen'
+venue: 'eBooks'
 paperurl: '/files/Data-DrivenMastery_SimplifyingBusinessOptimization.pdf'
 citation: 'Dan Ellis (2024). &quot;Data Driven Mastery - Simplifying Business Optimization.&quot; <i>AMAZON</i>. 1(3).'
 ---
