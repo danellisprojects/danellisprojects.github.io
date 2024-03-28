@@ -1,12 +1,14 @@
 ---
-title: "Paper Title Number 4"
+title: "Data Driven Mastery - Simplifying Business Optimization"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2024-03-28-simplifying-business-optimization
+excerpt: 'In the ever-evolving landscape of business, optimization stands as the beacon that guides companies to efficiency and success.'
+date: 2024-03-28
+venue: 'Project Next Gen'
+paperurl: '/files/Data-DrivenMastery_SimplifyingBusinessOptimization.pdf'
+citation: 'Dan Ellis (2024). &quot;Data Driven Mastery - Simplifying Business Optimization.&quot; <i>AMAZON</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<img src="/images/Data-DrivenMastery_SimplifyingBusinessOptimization.jpg"/>
+
+"In today's fast-paced business world, understanding and leveraging data has become a crucial aspect of success. Data-driven decision making allows organisations to gain insights into their operations, customers, and markets, and empowers them to optimise various aspects of their business. This chapter will provide you with a comprehensive overview of the basics of data science and its role in business optimization."
