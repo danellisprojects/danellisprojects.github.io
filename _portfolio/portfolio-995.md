@@ -1,5 +1,5 @@
 ---
-title: "Exploring the history of Lego"
+title: "Exploring the History of Lego"
 excerpt: "Using a variety of data manipulation techniques to explore aspects of Lego's history.<br/><br/><img src='/images/lego-bricks.jpeg'>"
 collection: portfolio
 ---
