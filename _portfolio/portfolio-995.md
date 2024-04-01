@@ -185,17 +185,6 @@ parts_by_year = sets[['year', 'num_parts']].groupby('year').mean()
 
 # Plot trends in average number of parts by year
 parts_by_year.plot()
-```
-
-    DEBUG:matplotlib.pyplot:Loaded backend module://ipykernel.pylab.backend_inline version unknown.
-
-
-
-
-
-    <AxesSubplot:xlabel='year'>
-
-
 
 
 ![png](/images/output_13_2.png)
