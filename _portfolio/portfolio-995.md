@@ -1,6 +1,6 @@
 ---
 title: "Exploring the history of Lego"
-excerpt: "The data on UK driving license holders, a nation on the move, with a consistent overall licensing rate but variations across age groups.<br/><br/><img src='/images/lego-bricks.jpeg'>"
+excerpt: "Using a variety of data manipulation techniques to explore aspects of Lego's history.<br/><br/><img src='/images/lego-bricks.jpeg'>"
 collection: portfolio
 ---
 ## 1. Introduction
