@@ -1,5 +1,5 @@
 ---
-title: "Announcing the Completion of Data-Driven Mastery: Simplifying Business Optimisation eBook"
+title: "Data Driven Mastery - Simplifying Business Optimisation"
 collection: publications
 permalink: /publication/2024-03-28-simplifying-business-optimisation
 excerpt: 'In the ever-evolving landscape of business, optimisation stands as the beacon that guides companies to efficiency and success.'
