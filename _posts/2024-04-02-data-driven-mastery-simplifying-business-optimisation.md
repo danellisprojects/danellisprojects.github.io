@@ -44,7 +44,7 @@ Why Should You Read It?
 Download Your Copy:
 -------------------
 
-The eBook is available for **free** download on our website: [Data-Driven Mastery eBook](/files/Data-DrivenMastery_SimplifyingBusinessOptimisation.pdf)
+The eBook is available for **free** download on our website: [Data-Driven Mastery eBook](/publication/2024-03-28-simplifying-business-optimisation)
 
 Join the Conversation:
 ----------------------
