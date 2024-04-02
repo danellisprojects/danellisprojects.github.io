@@ -1,5 +1,5 @@
 ---
-title: 'Data-Driven Mastery: Simplifying Business Optimisation eBook'
+title: 'Announcing the Completion of "Data-Driven Mastery: Simplifying Business Optimisation" eBook'
 date: 2024-04-02
 permalink: /posts/2024/04/data-driven-mastery-simplifying-business-optimisation/
 tags:
@@ -7,9 +7,6 @@ tags:
   - data analyst
   - business
 ---
-
-Announcing the Completion of "Data-Driven Mastery: Simplifying Business Optimisation" eBook
-===========================================================================================
 
 Dear Readers,
 
