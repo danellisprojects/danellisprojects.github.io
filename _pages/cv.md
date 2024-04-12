@@ -7,33 +7,33 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 **Daniel Ellis**
 ======
 
 Walsall, West Midlands
-
 dandata2006@hotmail.com
-
 Mobile: 07856 123048
-
 Full UK Driver License
-
 <https://www.linkedin.com/in/dan-ellis-69914a67/>
-
 [danellisprojects.github.io](https://danellisprojects.github.io/)
 
 PERSONAL STATEMENT
 ======
+
 With a robust background in Data Analytics and Cyber Security and a proficiency in app development and IT support, I bring a diverse skill set honed through various professional roles. From leading on impactful digital projects at Project Next Gen to efficiently managing IT infrastructures at St Francis of Assisi CTC, I have consistently demonstrated adaptability, problem-solving, and a strong work ethic. I am eager to contribute to forward-thinking initiatives that prioritise innovation and collaboration. I strive for excellence in all work I complete ensuring the highest of standards.
 
 KEY SKILLS
 ======
-Customer Service: Approachable nature provides skills in connecting well with others and using active listening skills to identify their needs and requirements. A strong communicator who can provide information and instructions clearly.\
-Time Management: An excellent timekeeper who can manage their time well to ensure tasks are completed to deadlines and targets are met.\
-Teamwork: Experience working within small teams, building effective working relationships with other members of staff.\
-Health and Safety: Consistent record in following health and safety regulations. Experience being a fire warden.\
+
+Customer Service: Approachable nature provides skills in connecting well with others and using active listening skills to identify their needs and requirements. A strong communicator who can provide information and instructions clearly.
+
+Time Management: An excellent timekeeper who can manage their time well to ensure tasks are completed to deadlines and targets are met.
+
+Teamwork: Experience working within small teams, building effective working relationships with other members of staff.
+
+Health and Safety: Consistent record in following health and safety regulations. Experience being a fire warden.
+
 Patience: Able to remain calm in stressful situations, including a fast-paced work environment and challenging individuals.
 
 Attention to Detail: Demonstrated meticulousness in data analysis and reporting. Thoroughly reviewed and validated datasets to ensure accuracy.
@@ -44,6 +44,7 @@ Problem-Solving and Communication: Solid numerical skills acquired from a divers
 
 EXPERIENCE
 ======
+
 Generation Data Analytics, Feb 2024 - Present, Remote.
 
 The programme, developed in partnership with Microsoft, has trained me to become a proactive Data Analyst. I am motivated and excited to gather and interpret data in order to solve specific problems for businesses and organisations.
@@ -60,6 +61,7 @@ The programme, developed in partnership with Microsoft, has trained me to become
 
 WORK EXPERIENCE
 ======
+
 Project Next Gen (Web Development), Jan 2016 -- October 2023, Remote.
 
 -   Planning, designing, and coding websites using PHP, HTML5, JavaScript, SQL, and CSS for many years.
