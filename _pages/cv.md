@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,10 +11,15 @@ redirect_from:
 ======
 
 Walsall, West Midlands
+
 dandata2006@hotmail.com
+
 Mobile: 07856 123048
+
 Full UK Driver License
+
 <https://www.linkedin.com/in/dan-ellis-69914a67/>
+
 [danellisprojects.github.io](https://danellisprojects.github.io/)
 
 PERSONAL STATEMENT
@@ -28,9 +32,9 @@ KEY SKILLS
 
 Customer Service: Approachable nature provides skills in connecting well with others and using active listening skills to identify their needs and requirements. A strong communicator who can provide information and instructions clearly.
 
-Time Management: An excellent timekeeper who can manage their time well to ensure tasks are completed to deadlines and targets are met.
+***Time Management***: An excellent timekeeper who can manage their time well to ensure tasks are completed to deadlines and targets are met.
 
-Teamwork: Experience working within small teams, building effective working relationships with other members of staff.
+***Teamwork***: Experience working within small teams, building effective working relationships with other members of staff.
 
 Health and Safety: Consistent record in following health and safety regulations. Experience being a fire warden.
 
