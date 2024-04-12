@@ -1,5 +1,5 @@
 ---
-title: 'ProjectNextGen.co.uk relaunch'
+title: 'ProjectNextGen.co.uks'
 date: 2024-03-14
 permalink: /posts/2024/03/project-next-gen-update/
 tags:
