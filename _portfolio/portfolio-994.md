@@ -10,7 +10,7 @@ Analysing Heathrow’s passenger numbers from 2005 to 2023 can provide several i
 
 Post-Pandemic Recovery: Heathrow experienced a strong recovery in 2023, with passenger numbers reaching 79.152 million, which is 28.5% higher than 2022’s total of 61.612 million. This suggests a significant rebound in air travel demand following the COVID-19 pandemic.
 
-Approaching Pre-Pandemic Levels: The 2023 figures are close to the pre-pandemic peak of 80.884 million passengers in 20191. This indicates that travel restrictions and the impact of the pandemic on international travel are diminishing.
+Approaching Pre-Pandemic Levels: The 2023 figures are close to the pre-pandemic peak of 80.884 million passengers in 2019. This indicates that travel restrictions and the impact of the pandemic on international travel are diminishing.
 
 EU as Largest Market: The European Union remains Heathrow’s largest market, with flights to and from EU countries accounting for 26.15 million passengers in 20231. This shows the importance of EU destinations in Heathrow’s overall traffic.
 
@@ -22,5 +22,5 @@ North America as Second Largest Market: North America was the second most popula
 
 Middle East and Asia/Pacific Traffic: Other markets like the Middle East and Asia/Pacific also saw millions of passengers, indicating Heathrow’s role as a global hub for travellers from diverse regions.
 
-These insights can help understand the dynamics of international air travel and Heathrow’s strategic position in the global aviation market. For a more detailed analysis, one could delve into the monthly and annual traffic statistics provided by Heathrow2. This data could be used to identify seasonal trends, the impact of global events on air travel, and the performance of different airlines and routes.
+These insights can help understand the dynamics of international air travel and Heathrow’s strategic position in the global aviation market. For a more detailed analysis, one could delve into the monthly and annual traffic statistics provided by Heathrow. This data could be used to identify seasonal trends, the impact of global events on air travel, and the performance of different airlines and routes.
 

@@ -6,10 +6,6 @@ redirect_from:
   - /resume
 ---
 
-
-**Daniel Ellis**
-======
-
 Walsall, West Midlands
 
 dandata2006@hotmail.com
