@@ -4,9 +4,9 @@ excerpt: "An indepth data analysis using Power BI. Noteworthy recovery in passen
 collection: portfolio
 ---
 
-<iframe title="HeathrowPassengers" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmE3YjgzN2EtNTQzYS00ZTc1LWFjNDktYmI3ODczMTU0N2EyIiwidCI6ImE1MGUwYmRlLTMxZmEtNDk1NS1iY2FiLWU0NmM4MDQzMWIxOSJ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="HeathrowPassengers" width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiMmE3YjgzN2EtNTQzYS00ZTc1LWFjNDktYmI3ODczMTU0N2EyIiwidCI6ImE1MGUwYmRlLTMxZmEtNDk1NS1iY2FiLWU0NmM4MDQzMWIxOSJ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
 
-Analysing Heathrow’s passenger numbers from 2015 to 2023 can provide several insights into the airport’s performance and trends in air travel.
+Analysing Heathrow’s passenger numbers from 2005 to 2023 can provide several insights into the airport’s performance and trends in air travel.
 
 Post-Pandemic Recovery: Heathrow experienced a strong recovery in 2023, with passenger numbers reaching 79.152 million, which is 28.5% higher than 2022’s total of 61.612 million. This suggests a significant rebound in air travel demand following the COVID-19 pandemic.
 
