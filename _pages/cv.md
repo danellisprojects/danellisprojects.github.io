@@ -27,7 +27,7 @@ With a robust background in Data Analytics and Cyber Security and a proficiency 
 KEY SKILLS
 ======
 
-Customer Service: Approachable nature provides skills in connecting well with others and using active listening skills to identify their needs and requirements. A strong communicator who can provide information and instructions clearly.
+***Customer Service***: Approachable nature provides skills in connecting well with others and using active listening skills to identify their needs and requirements. A strong communicator who can provide information and instructions clearly.
 
 ***Time Management***: An excellent timekeeper who can manage their time well to ensure tasks are completed to deadlines and targets are met.
 
