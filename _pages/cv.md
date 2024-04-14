@@ -112,11 +112,11 @@ EDUCATION AND CERTIFICATIONS
 
 Certification in Cyber Security Practices Level 3 | Sept 2023
 
-A Level | Jun 2005
+A Level's | Jun 2005
 
-Maths, IT, Media, and Psychology |
+Mathmatics, IT, Media, and Psychology |
 
-GCSEs | Jun 2003
+GCSE's | Jun 2003
 
 Grade B: Information Technology, Math's, Science (Double Award). |
 
