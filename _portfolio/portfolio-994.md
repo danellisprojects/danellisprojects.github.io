@@ -4,7 +4,7 @@ excerpt: "An indepth data analysis using Power BI. Noteworthy recovery in passen
 collection: portfolio
 ---
 
-<iframe title="HeathrowPassengers" width="800" height="836" src="https://app.powerbi.com/view?r=eyJrIjoiMmE3YjgzN2EtNTQzYS00ZTc1LWFjNDktYmI3ODczMTU0N2EyIiwidCI6ImE1MGUwYmRlLTMxZmEtNDk1NS1iY2FiLWU0NmM4MDQzMWIxOSJ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="HeathrowPassengers" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmE3YjgzN2EtNTQzYS00ZTc1LWFjNDktYmI3ODczMTU0N2EyIiwidCI6ImE1MGUwYmRlLTMxZmEtNDk1NS1iY2FiLWU0NmM4MDQzMWIxOSJ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
 
 Analysing Heathrow’s passenger numbers from 2015 to 2023 can provide several insights into the airport’s performance and trends in air travel. Here are some key points based on the available data:
 
