@@ -33,15 +33,15 @@ Customer Service: Approachable nature provides skills in connecting well with ot
 
 ***Teamwork***: Experience working within small teams, building effective working relationships with other members of staff.
 
-Health and Safety: Consistent record in following health and safety regulations. Experience being a fire warden.
+***Health and Safety***: Consistent record in following health and safety regulations. Experience being a fire warden.
 
-Patience: Able to remain calm in stressful situations, including a fast-paced work environment and challenging individuals.
+***Patience***: Able to remain calm in stressful situations, including a fast-paced work environment and challenging individuals.
 
-Attention to Detail: Demonstrated meticulousness in data analysis and reporting. Thoroughly reviewed and validated datasets to ensure accuracy.
+***Attention to Detail***: Demonstrated meticulousness in data analysis and reporting. Thoroughly reviewed and validated datasets to ensure accuracy.
 
-Technical Proficiency: Python, SQL, and Excel expertise. Utilised these tools to manipulate, analyse, and visualise data effectively.
+***Technical Proficiency***: Python, SQL, and Excel expertise. Utilised these tools to manipulate, analyse, and visualise data effectively.
 
-Problem-Solving and Communication: Solid numerical skills acquired from a diverse background. Excel proficiency and ability to present complex findings in a clear and concise manner.
+***Problem-Solving and Communication***: Solid numerical skills acquired from a diverse background. Excel proficiency and ability to present complex findings in a clear and concise manner.
 
 EXPERIENCE
 ======
@@ -110,15 +110,15 @@ Old Corner House Hotel (Chef), April 2004 - June 2005, Lichfield.
 EDUCATION AND CERTIFICATIONS
 ======
 
-Certification in Cyber Security Practices Level 3            Sept 2023 
+Certification in Cyber Security Practices Level 3 | Sept 2023
 
-A Level            
+A Level | Jun 2005
 
-Maths, IT, Media, and Psychology                                                                                                             Jun 2005
+Maths, IT, Media, and Psychology
 
-GCSEs 
+GCSEs | Jun 2003
 
-Grade B: Information Technology, Math's, Science (Double Award)           Jun 2003
+Grade B: Information Technology, Math's, Science (Double Award).
 
 Grade C: English Language, English Literature, Religious Education, Geography.
 
