@@ -15,14 +15,18 @@ Mobile: 07856 123048
 
 Full UK Driver License
 
-<https://www.linkedin.com/in/dan-ellis-69914a67/>
+<https://www.linkedin.com/in/danellis1/>
 
 [danellisprojects.github.io](https://danellisprojects.github.io/)
 
 PERSONAL STATEMENT
 ======
 
-With a robust background in Data Analytics and Cyber Security and a proficiency in app development and IT support, I bring a diverse skill set honed through various professional roles. From leading on impactful digital projects at Project Next Gen to efficiently managing IT infrastructures at St Francis of Assisi CTC, I have consistently demonstrated adaptability, problem-solving, and a strong work ethic. I am eager to contribute to forward-thinking initiatives that prioritise innovation and collaboration. I strive for excellence in all work I complete ensuring the highest of standards.
+I have an experienced and interesting background in IT Support and Software Development and recently achieved Data 
+Analytics and Cyber Security certification enhancing my technical knowledge. I have a wide range of skills that I have 
+mastered during various professional roles and experiences. I have consistently demonstrated adaptability, proactivity 
+and a strong work ethic and I really want to be a contributor to forward-thinking initiatives leading innovation. I strive for 
+excellence in all work I complete ensuring the highest of standards. 
 
 KEY SKILLS
 ======
@@ -109,6 +113,9 @@ Old Corner House Hotel (Chef), April 2004 - June 2005, Lichfield.
 
 EDUCATION AND CERTIFICATIONS
 ======
+Microsoft Certified Power Platform Fundamentals | May 2024
+
+Generation UK Data Analytics Graduate | Feb 2024 - May 2024
 
 Certification in Cyber Security Practices Level 3 | Sept 2023
 
