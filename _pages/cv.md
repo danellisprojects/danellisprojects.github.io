@@ -43,7 +43,7 @@ KEY SKILLS
 
 ***Attention to Detail***: Demonstrated meticulousness in data analysis and reporting. Thoroughly reviewed and validated datasets to ensure accuracy.
 
-***Technical Proficiency***: Python, SQL, and Excel expertise. Utilised these tools to manipulate, analyse, and visualise data effectively.
+***Technical Proficiency***: Python, SQL, Power BI, Looker Studio and Excel expertise. Utilised these tools to manipulate, analyse, and visualise data effectively.
 
 ***Problem-Solving and Communication***: Solid numerical skills acquired from a diverse background. Excel proficiency and ability to present complex findings in a clear and concise manner.
 
