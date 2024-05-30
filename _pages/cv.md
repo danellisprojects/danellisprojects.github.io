@@ -113,6 +113,7 @@ Old Corner House Hotel (Chef), April 2004 - June 2005, Lichfield.
 
 EDUCATION AND CERTIFICATIONS
 ======
+
 Microsoft Certified Power Platform Fundamentals | May 2024
 
 Generation UK Data Analytics Graduate | Feb 2024 - May 2024
